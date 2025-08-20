@@ -26,8 +26,8 @@ An online grocery store web application built as a group project, focused on del
 
 ## 👨‍💻 Developed By
 
-* \MOMINA WAHEED KIANI
-* \EMAN AMIR NIAZI
+* MOMINA WAHEED KIANI
+* EMAN AMIR NIAZI
 
 
 
