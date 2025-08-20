@@ -1,6 +1,6 @@
 # 🛒 Online Grocery Store
 
-An online grocery store web application built as a group project, focused on delivering a smooth, user-friendly shopping experience. The platform includes all essential e-commerce features — from browsing products to managing accounts and checking out seamlessly.
+An online grocery store web application built as a group project, focused on delivering a smooth, user-friendly shopping experience. The platform includes all essential e-commerce features from browsing products to managing accounts and checking out seamlessly.
 
 
 ## 🌟 Features
