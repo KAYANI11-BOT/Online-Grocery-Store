@@ -26,8 +26,8 @@ An online grocery store web application built as a group project, focused on del
 
 ## 👨‍💻 Developed By
 
-* \[MOMINA WAHEED KIANI]
-* \[EMAN AMIR NIAZI]
+* \MOMINA WAHEED KIANI
+* \EMAN AMIR NIAZI
 
 
 
@@ -49,6 +49,3 @@ An online grocery store web application built as a group project, focused on del
 
 Feel free to fork, star ⭐, or reach out if you'd like to collaborate!
 
-
-
-Let me know if you'd like a minimal version or one with markdown badges!
